@@ -1,0 +1,19 @@
+.Drop {
+  text-align: center;
+}
+
+.Drop-header {
+  background-color: #646e82;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Drop-from {
+background-color: #282c34;
+/*  border: 50px solid #282c34;*/
+}
